@@ -1,7 +1,7 @@
 const textConfig = {
   text1: "he luuuu cau",
   text2: "Tớ có điều này muốn hỏi cậu nhớ phải trả lời thật lòng nhaaaaaa.",
-  text3: "Huyền Bán ACC Có Uy Tín Không",
+  text3: "Hoài Bán ACC Có Uy Tín Không",
   text4: "Nếu không trả lời tớ buồn lắm :(((",
   text5: "Scamm",
   text6: "Uy Tín 100000000%",
@@ -138,7 +138,7 @@ $(document).ready(function () {
           text: textConfig.text11,
           confirmButtonColor: "#83d0c9",
           onClose: () => {
-            window.location = "https://www.facebook.com/hahuyen288";
+            window.location = "https://www.facebook.com/nguyenhoai288";
           },
         });
       }
